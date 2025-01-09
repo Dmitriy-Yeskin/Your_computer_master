@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi"/>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>Constant.ВКМ_ИдентификаторГруппыДляОповещения.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Constant.ВКМ_ТокенУправленияТелеграмБотом.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Constant.ВКМ_ТаймаутСоединения.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>CommonForm.ВКМ_ФормаПараметровTGБота.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+  </commandsVisibility>
+  <commandsOrder>
+    <orderFragments>
+      <group>ActionsPanelTools</group>
+      <commands>CommonForm.ВКМ_ФормаПараметровTGБота.StandardCommand.Open</commands>
+      <commands>Constant.ВКМ_ИдентификаторГруппыДляОповещения.StandardCommand.Open</commands>
+      <commands>Constant.ВКМ_ТаймаутСоединения.StandardCommand.Open</commands>
+      <commands>Constant.ВКМ_ТокенУправленияТелеграмБотом.StandardCommand.Open</commands>
+    </orderFragments>
+  </commandsOrder>
+</cmi:CommandInterface>
