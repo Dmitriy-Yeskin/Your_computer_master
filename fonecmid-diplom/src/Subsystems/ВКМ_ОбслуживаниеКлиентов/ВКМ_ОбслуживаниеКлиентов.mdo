@@ -16,4 +16,6 @@
   <content>CommonModule.ВКМ_Телеграм</content>
   <content>Constant.ВКМ_ТаймаутСоединения</content>
   <content>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправитьСообщенияВТелеграмм</content>
 </mdclass:Subsystem>
