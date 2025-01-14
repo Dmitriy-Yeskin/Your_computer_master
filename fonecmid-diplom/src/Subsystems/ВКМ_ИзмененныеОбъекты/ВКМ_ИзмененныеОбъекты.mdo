@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>Enum.ВидыДоговоровКонтрагентов</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>DefinedType.ФизическоеЛицо</content>
 </mdclass:Subsystem>

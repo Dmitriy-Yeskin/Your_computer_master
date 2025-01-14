@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1d4db2af-97e1-42be-9664-70f00b4ea451">
+  <producedTypes>
+    <objectType typeId="a51228a3-0df6-41ca-8718-cc456f72d15b" valueTypeId="233eaff0-20dd-4051-8346-1aa150cce586"/>
+    <managerType typeId="001f2b10-fb7d-4b42-af65-17828e278b97" valueTypeId="2d7e79bd-6ddf-4972-b1fa-963007a4c919"/>
+  </producedTypes>
+  <name>ВКМ_Календарь</name>
+  <synonym>
+    <key>ru</key>
+    <value>Календарь</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_Календарь.Form.Форма</defaultForm>
+  <attributes uuid="c3777d02-49bf-4287-bb30-3621e4c64bab">
+    <name>Планировщик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Планировщик</value>
+    </synonym>
+    <type>
+      <types>Planner</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="eab4a5ce-53c1-4d7e-88d1-2b585a67d5db">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

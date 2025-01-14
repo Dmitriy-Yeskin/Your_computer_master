@@ -18,13 +18,25 @@
       <visible/>
     </visibilityFragments>
   </commandsVisibility>
+  <commandsPlacement>
+    <placementFragments>
+      <group>NavigationPanelImportant</group>
+      <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
+    </placementFragments>
+  </commandsPlacement>
   <commandsOrder>
     <orderFragments>
       <group>ActionsPanelTools</group>
+      <commands>DataProcessor.ВКМ_Календарь.StandardCommand.Open</commands>
+      <commands>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм.StandardCommand.Open</commands>
       <commands>CommonForm.ВКМ_ФормаПараметровTGБота.StandardCommand.Open</commands>
       <commands>Constant.ВКМ_ИдентификаторГруппыДляОповещения.StandardCommand.Open</commands>
       <commands>Constant.ВКМ_ТаймаутСоединения.StandardCommand.Open</commands>
       <commands>Constant.ВКМ_ТокенУправленияТелеграмБотом.StandardCommand.Open</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>NavigationPanelImportant</group>
+      <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>
