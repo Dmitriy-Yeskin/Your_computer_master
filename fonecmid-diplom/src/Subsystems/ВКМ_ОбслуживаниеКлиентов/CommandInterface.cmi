@@ -27,7 +27,6 @@
   <commandsOrder>
     <orderFragments>
       <group>ActionsPanelTools</group>
-      <commands>DataProcessor.ВКМ_Календарь.StandardCommand.Open</commands>
       <commands>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм.StandardCommand.Open</commands>
       <commands>CommonForm.ВКМ_ФормаПараметровTGБота.StandardCommand.Open</commands>
       <commands>Constant.ВКМ_ИдентификаторГруппыДляОповещения.StandardCommand.Open</commands>

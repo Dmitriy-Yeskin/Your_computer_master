@@ -17,5 +17,7 @@
   <content>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправитьСообщенияВТелеграмм</content>
-  <content>DataProcessor.ВКМ_Календарь</content>
+  <content>Enum.ВКМ_КатегорияФизическогоЛица</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>DataProcessor.ВКМ_КалендарьСпециалистов</content>
 </mdclass:Subsystem>
