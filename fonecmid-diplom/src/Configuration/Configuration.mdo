@@ -1120,6 +1120,8 @@
   <constants>Constant.ВКМ_ТокенУправленияТелеграмБотом</constants>
   <constants>Constant.ВКМ_ИдентификаторГруппыДляОповещения</constants>
   <constants>Constant.ВКМ_ТаймаутСоединения</constants>
+  <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
+  <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
@@ -1180,6 +1182,7 @@
   <commonForms>CommonForm.ФормаНастроекОтчета</commonForms>
   <commonForms>CommonForm.ФормаОтчета</commonForms>
   <commonForms>CommonForm.ВКМ_ФормаПараметровTGБота</commonForms>
+  <commonForms>CommonForm.ВКМ_ФормаНастройкиРасширенияКонстанты</commonForms>
   <catalogs>Catalog.ВариантыОтчетов</catalogs>
   <catalogs>Catalog.ВерсииРасширений</catalogs>
   <catalogs>Catalog.ВерсииФайлов</catalogs>

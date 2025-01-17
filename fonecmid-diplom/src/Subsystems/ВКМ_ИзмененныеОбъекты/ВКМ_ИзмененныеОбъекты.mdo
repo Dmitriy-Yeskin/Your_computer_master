@@ -9,4 +9,5 @@
   <content>Enum.ВидыДоговоровКонтрагентов</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>DefinedType.ФизическоеЛицо</content>
+  <content>Document.РеализацияТоваровУслуг</content>
 </mdclass:Subsystem>
