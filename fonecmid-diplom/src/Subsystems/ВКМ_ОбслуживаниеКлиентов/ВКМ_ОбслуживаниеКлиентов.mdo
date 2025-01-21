@@ -11,7 +11,7 @@
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
-  <content>Role.ВКМ_РаботаСДокументомОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
@@ -22,4 +22,7 @@
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправитьСообщенияВТелеграмм</content>
   <content>DataProcessor.ВКМ_КалендарьСпециалистов</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
+  <content>Role.ВКМ_РаботаОбработкойМассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

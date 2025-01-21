@@ -329,23 +329,15 @@
 				</c>
 			</c>
 			<c>
+				<i>8</i>
 				<c>
 					<f>18</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content/>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
@@ -380,6 +372,16 @@
 			</c>
 			<c>
 				<c>
+					<f>19</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+				</c>
+			</c>
+			<c>
+				<c>
 					<f>20</f>
 				</c>
 			</c>
@@ -390,17 +392,7 @@
 			</c>
 			<c>
 				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
@@ -446,23 +438,15 @@
 				</c>
 			</c>
 			<c>
+				<i>8</i>
 				<c>
 					<f>18</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content/>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
@@ -497,6 +481,16 @@
 			</c>
 			<c>
 				<c>
+					<f>19</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+				</c>
+			</c>
+			<c>
+				<c>
 					<f>20</f>
 				</c>
 			</c>
@@ -507,17 +501,7 @@
 			</c>
 			<c>
 				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
+					<f>20</f>
 				</c>
 			</c>
 			<c>
@@ -563,23 +547,15 @@
 				</c>
 			</c>
 			<c>
+				<i>8</i>
 				<c>
 					<f>18</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content/>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
@@ -1396,6 +1372,22 @@
 			</c>
 		</row>
 	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>1</id>
+		<formatIndex>46</formatIndex>
+		<beginRow>3</beginRow>
+		<beginRowOffset>19</beginRowOffset>
+		<endRow>8</endRow>
+		<endRowOffset>26</endRowOffset>
+		<beginColumn>8</beginColumn>
+		<beginColumnOffset>70</beginColumnOffset>
+		<endColumn>8</endColumn>
+		<endColumnOffset>341</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>RealSize</pictureSize>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
 	<templateMode>true</templateMode>
 	<defaultFormatIndex>10</defaultFormatIndex>
 	<height>25</height>
@@ -1423,7 +1415,7 @@
 	<merge>
 		<r>4</r>
 		<c>4</c>
-		<w>4</w>
+		<w>3</w>
 	</merge>
 	<merge>
 		<r>5</r>
@@ -1438,7 +1430,7 @@
 	<merge>
 		<r>6</r>
 		<c>4</c>
-		<w>4</w>
+		<w>3</w>
 	</merge>
 	<merge>
 		<r>7</r>
@@ -1453,7 +1445,7 @@
 	<merge>
 		<r>8</r>
 		<c>4</c>
-		<w>4</w>
+		<w>3</w>
 	</merge>
 	<merge>
 		<r>9</r>
@@ -1536,6 +1528,21 @@
 		<w>1</w>
 	</merge>
 	<verticalUnmerge>
+		<r>4</r>
+		<c>4</c>
+		<w>1</w>
+	</verticalUnmerge>
+	<verticalUnmerge>
+		<r>6</r>
+		<c>4</c>
+		<w>1</w>
+	</verticalUnmerge>
+	<verticalUnmerge>
+		<r>8</r>
+		<c>4</c>
+		<w>1</w>
+	</verticalUnmerge>
+	<verticalUnmerge>
 		<r>20</r>
 		<c>4</c>
 		<w>1</w>
@@ -1579,6 +1586,10 @@
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
 		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemDrawing">
+		<name>КартинкаQR</name>
+		<drawingID>1</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
 		<name>Подвал</name>
@@ -1636,6 +1647,9 @@
 	<line width="1" gap="false">
 		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">Solid</v8ui:style>
 	</line>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
 	<font faceName="Arial" height="14" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="10" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="10" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
@@ -1652,7 +1666,7 @@
 		<width>18</width>
 	</format>
 	<format>
-		<width>155</width>
+		<width>170</width>
 	</format>
 	<format>
 		<width>103</width>
@@ -1704,14 +1718,15 @@
 		<font>2</font>
 		<width>221</width>
 		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<font>2</font>
-		<width>72</width>
+		<fillType>Text</fillType>
 	</format>
 	<format>
 		<font>2</font>
 		<width>221</width>
+	</format>
+	<format>
+		<font>2</font>
+		<width>72</width>
 	</format>
 	<format>
 		<topMargin>4</topMargin>
@@ -1832,4 +1847,11 @@
 	<format>
 		<width>186</width>
 	</format>
+	<format>
+		<drawingBorder>2</drawingBorder>
+	</format>
+	<picture>
+		<index>0</index>
+		<picture t="false" ref="v8ui:МестоДляQRКода"/>
+	</picture>
 </document>

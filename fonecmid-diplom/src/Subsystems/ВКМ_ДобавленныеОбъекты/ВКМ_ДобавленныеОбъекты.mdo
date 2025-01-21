@@ -7,7 +7,7 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
-  <content>Role.ВКМ_РаботаСДокументомОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
@@ -23,4 +23,8 @@
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>CommonForm.ВКМ_ФормаНастройкиРасширенияКонстанты</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</content>
+  <content>Role.ВКМ_РаботаОбработкойМассовоеСозданиеАктов</content>
 </mdclass:Subsystem>
