@@ -26,5 +26,5 @@
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
   <content>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</content>
-  <content>Role.ВКМ_РаботаОбработкойМассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_РаботаСОбработкойМассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

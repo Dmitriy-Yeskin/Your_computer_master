@@ -629,7 +629,7 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</roles>
   <roles>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</roles>
-  <roles>Role.ВКМ_РаботаОбработкойМассовоеСозданиеАктов</roles>
+  <roles>Role.ВКМ_РаботаСОбработкойМассовоеСозданиеАктов</roles>
   <roles>Role.ВКМ_ПодсистемаОбслуживаниеКлиентов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
