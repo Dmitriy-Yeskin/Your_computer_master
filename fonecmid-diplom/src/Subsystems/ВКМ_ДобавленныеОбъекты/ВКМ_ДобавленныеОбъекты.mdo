@@ -34,4 +34,10 @@
   <content>Role.ВКМ_РаботаСРегистрамиИПланамиВидовРасчета</content>
   <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеГрафиковРаботы</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>CommandGroup.ВКМ_ГрафикиРаботы</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
+  <content>CommonCommand.ВКМ_ЗаполнитьГрафикиРаботы</content>
 </mdclass:Subsystem>

@@ -636,6 +636,7 @@
   <roles>Role.ВКМ_ДобавлениеИзмененияДокументовНачисления</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДанныхСотрудников</roles>
   <roles>Role.ВКМ_РаботаСРегистрамиИПланамиВидовРасчета</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеГрафиковРаботы</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1057,9 +1058,11 @@
   <commonCommands>CommonCommand.СозданиеСвязанныхОбъектов</commonCommands>
   <commonCommands>CommonCommand.УстановитьРасширениеДляРаботыС1СПредприятием</commonCommands>
   <commonCommands>CommonCommand.ФайлыВТоме</commonCommands>
+  <commonCommands>CommonCommand.ВКМ_ЗаполнитьГрафикиРаботы</commonCommands>
   <commandGroups>CommandGroup.Информация</commandGroups>
   <commandGroups>CommandGroup.Органайзер</commandGroups>
   <commandGroups>CommandGroup.Печать</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_ГрафикиРаботы</commandGroups>
   <constants>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВИнтернете</constants>
   <constants>Constant.ГлавныйУзел</constants>
@@ -1238,6 +1241,7 @@
   <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ВКМ_УведомленияТелеграмБоту</catalogs>
   <catalogs>Catalog.ВКМ_ФизическиеЛица</catalogs>
+  <catalogs>Catalog.ВКМ_ГрафикиРаботы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
@@ -1334,6 +1338,7 @@
   <dataProcessors>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_КалендарьСпециалистов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
@@ -1403,6 +1408,7 @@
   <informationRegisters>InformationRegister.ФайлыВРабочемКаталоге</informationRegisters>
   <informationRegisters>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</informationRegisters>
   <informationRegisters>InformationRegister.ВКМ_УсловияОплатыСотрудников</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_ГрафикиРаботы</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>
