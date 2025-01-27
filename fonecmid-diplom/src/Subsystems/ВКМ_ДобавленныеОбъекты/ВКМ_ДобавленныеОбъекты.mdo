@@ -40,4 +40,5 @@
   <content>CommandGroup.ВКМ_ГрафикиРаботы</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>CommonCommand.ВКМ_ЗаполнитьГрафикиРаботы</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>
