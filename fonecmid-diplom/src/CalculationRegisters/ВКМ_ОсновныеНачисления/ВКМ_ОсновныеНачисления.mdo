@@ -41,10 +41,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </resources>
   <resources uuid="17ed8fbf-a92a-4a83-965a-37e29f03aaa0">
-    <name>Дней</name>
+    <name>ОтработаноДней</name>
     <synonym>
       <key>ru</key>
-      <value>Дней</value>
+      <value>Отработано дней</value>
     </synonym>
     <type>
       <types>Number</types>

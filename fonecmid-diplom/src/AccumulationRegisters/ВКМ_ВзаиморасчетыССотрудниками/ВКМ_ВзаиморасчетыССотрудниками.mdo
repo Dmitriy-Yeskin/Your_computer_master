@@ -14,7 +14,6 @@
     <value>Взаиморасчеты с сотрудниками</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <registerType>Turnovers</registerType>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="9793c945-4b3b-44b9-8888-6c65b86a1342">
