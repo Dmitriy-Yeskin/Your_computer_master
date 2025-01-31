@@ -25,4 +25,6 @@
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
   <content>Role.ВКМ_РаботаСОбработкойМассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_РаботаСОтчетомВыработкаСпециалистов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
 </mdclass:Subsystem>
