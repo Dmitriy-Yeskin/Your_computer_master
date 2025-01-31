@@ -55,4 +55,8 @@
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <content>Role.ВКМ_РаботаСОтчетомРасчетыССотрудниками</content>
   <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Role.ВКМ_РаботаСОтчетомАнализВыставленныхАктов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>

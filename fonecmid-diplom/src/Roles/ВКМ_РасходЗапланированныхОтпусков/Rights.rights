@@ -4,7 +4,7 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>Report.ВКМ_РасчетыССотрудниками</name>
+		<name>Report.ВКМ_РасходЗапланированныхОтпусков</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
