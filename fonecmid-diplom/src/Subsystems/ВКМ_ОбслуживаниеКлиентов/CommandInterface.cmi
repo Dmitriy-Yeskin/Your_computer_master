@@ -17,11 +17,23 @@
       <command>CommonForm.ВКМ_ФормаПараметровTGБота.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ВКМ_АнализВыставленныхАктов.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ВКМ_ВыработкаСпециалистов.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
   </commandsVisibility>
   <commandsPlacement>
     <placementFragments>
       <group>NavigationPanelImportant</group>
       <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
+    </placementFragments>
+    <placementFragments>
+      <group>ActionsPanelReports</group>
+      <commands>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</commands>
     </placementFragments>
   </commandsPlacement>
   <commandsOrder>
@@ -38,6 +50,12 @@
     <orderFragments>
       <group>NavigationPanelImportant</group>
       <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>ActionsPanelReports</group>
+      <commands>Report.ВКМ_АнализВыставленныхАктов.StandardCommand.Open</commands>
+      <commands>Report.ВКМ_ВыработкаСпециалистов.StandardCommand.Open</commands>
+      <commands>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

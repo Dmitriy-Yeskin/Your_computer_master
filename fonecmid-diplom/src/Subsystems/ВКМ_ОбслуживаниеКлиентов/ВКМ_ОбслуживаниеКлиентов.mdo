@@ -29,4 +29,5 @@
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <content>Role.ВКМ_РаботаСОтчетомАнализВыставленныхАктов</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</content>
 </mdclass:Subsystem>

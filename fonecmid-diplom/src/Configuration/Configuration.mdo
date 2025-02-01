@@ -641,7 +641,7 @@
   <roles>Role.ВКМ_РаботаСОтчетомВыработкаСпециалистов</roles>
   <roles>Role.ВКМ_РаботаСОтчетомРасчетыССотрудниками</roles>
   <roles>Role.ВКМ_РаботаСОтчетомАнализВыставленныхАктов</roles>
-  <roles>Role.ВКМ_РасходЗапланированныхОтпусков</roles>
+  <roles>Role.ВКМ_РаботаСОтчетомРасходЗапланированныхОтпусков</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1064,6 +1064,8 @@
   <commonCommands>CommonCommand.УстановитьРасширениеДляРаботыС1СПредприятием</commonCommands>
   <commonCommands>CommonCommand.ФайлыВТоме</commonCommands>
   <commonCommands>CommonCommand.ВКМ_ЗаполнитьГрафикиРаботы</commonCommands>
+  <commonCommands>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</commonCommands>
+  <commonCommands>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</commonCommands>
   <commandGroups>CommandGroup.Информация</commandGroups>
   <commandGroups>CommandGroup.Органайзер</commandGroups>
   <commandGroups>CommandGroup.Печать</commandGroups>

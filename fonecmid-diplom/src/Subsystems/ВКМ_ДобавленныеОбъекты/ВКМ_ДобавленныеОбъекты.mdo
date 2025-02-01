@@ -58,5 +58,7 @@
   <content>Role.ВКМ_РаботаСОтчетомАнализВыставленныхАктов</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
-  <content>Role.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_РаботаСОтчетомРасходЗапланированныхОтпусков</content>
+  <content>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</content>
+  <content>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</content>
 </mdclass:Subsystem>

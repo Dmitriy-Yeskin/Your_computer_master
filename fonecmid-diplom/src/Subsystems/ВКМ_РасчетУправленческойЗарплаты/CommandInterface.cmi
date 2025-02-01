@@ -5,6 +5,18 @@
       <command>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ВКМ_ВыработкаСпециалистов.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ВКМ_РасчетыССотрудниками.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>Report.ВКМ_РасходЗапланированныхОтпусков.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
   </commandsVisibility>
   <commandsPlacement>
     <placementFragments>
@@ -23,6 +35,10 @@
       <commands>Document.ВКМ_НачислениеЗаработнойПлаты.StandardCommand.OpenList</commands>
       <commands>Document.ВКМ_НачислениеФиксированныхПремий.StandardCommand.OpenList</commands>
       <commands>Document.ВКМ_ВыплатаЗарплаты.StandardCommand.OpenList</commands>
+    </placementFragments>
+    <placementFragments>
+      <group>ActionsPanelReports</group>
+      <commands>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</commands>
     </placementFragments>
   </commandsPlacement>
   <commandsOrder>
@@ -57,6 +73,13 @@
       <commands>CalculationRegister.ВКМ_Удержания.StandardCommand.OpenList</commands>
       <commands>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardCommand.OpenList</commands>
       <commands>Document.ВКМ_ГрафикОтпусков.StandardCommand.OpenList</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>ActionsPanelReports</group>
+      <commands>Report.ВКМ_ВыработкаСпециалистов.StandardCommand.Open</commands>
+      <commands>Report.ВКМ_РасходЗапланированныхОтпусков.StandardCommand.Open</commands>
+      <commands>Report.ВКМ_РасчетыССотрудниками.StandardCommand.Open</commands>
+      <commands>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>
