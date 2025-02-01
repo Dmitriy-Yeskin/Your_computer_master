@@ -17,6 +17,10 @@
       <command>Report.ВКМ_РасходЗапланированныхОтпусков.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
   </commandsVisibility>
   <commandsPlacement>
     <placementFragments>

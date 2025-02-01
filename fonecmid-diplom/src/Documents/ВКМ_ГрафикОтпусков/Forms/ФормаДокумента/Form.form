@@ -1042,6 +1042,26 @@
     <main>true</main>
     <savedData>true</savedData>
   </attributes>
+  <attributes>
+    <name>МаксимальноеЧислоДнейОтпуска</name>
+    <title>
+      <key>ru</key>
+      <value>Максимальное число дней отпуска</value>
+    </title>
+    <id>2</id>
+    <valueType>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>5</precision>
+      </numberQualifiers>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
   <formCommands>
     <name>ЗаполнитьСотрудников</name>
     <title>

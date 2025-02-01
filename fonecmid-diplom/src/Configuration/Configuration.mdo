@@ -1142,6 +1142,7 @@
   <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
   <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
   <constants>Constant.ВКМ_НДФЛ</constants>
+  <constants>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
@@ -1425,6 +1426,7 @@
   <informationRegisters>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</informationRegisters>
   <informationRegisters>InformationRegister.ВКМ_УсловияОплатыСотрудников</informationRegisters>
   <informationRegisters>InformationRegister.ВКМ_ГрафикиРаботы</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_ГрафикОтпусков</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>
