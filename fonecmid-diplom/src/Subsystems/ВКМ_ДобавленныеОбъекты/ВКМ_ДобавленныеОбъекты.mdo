@@ -61,6 +61,6 @@
   <content>Role.ВКМ_РаботаСОтчетомРасходЗапланированныхОтпусков</content>
   <content>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</content>
   <content>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</content>
-  <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
   <content>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</content>
+  <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>
