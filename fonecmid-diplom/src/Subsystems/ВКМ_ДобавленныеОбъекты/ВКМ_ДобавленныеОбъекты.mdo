@@ -63,4 +63,5 @@
   <content>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</content>
   <content>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</content>
   <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеЗаРаботыАкты</content>
 </mdclass:Subsystem>

@@ -30,4 +30,5 @@
   <content>Role.ВКМ_РаботаСОтчетомАнализВыставленныхАктов</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>CommonCommand.ВКМ_ОбслуживаниеКлиентовПанельОтчетов</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеЗаРаботыАкты</content>
 </mdclass:Subsystem>

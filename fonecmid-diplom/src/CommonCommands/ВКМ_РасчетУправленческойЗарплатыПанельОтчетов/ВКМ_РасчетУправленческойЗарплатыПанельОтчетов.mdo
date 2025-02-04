@@ -3,7 +3,7 @@
   <name>ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</name>
   <synonym>
     <key>ru</key>
-    <value>Основные отчеты</value>
+    <value>Отчеты по кадрам</value>
   </synonym>
   <group>NavigationPanelOrdinary</group>
   <representation>Auto</representation>
