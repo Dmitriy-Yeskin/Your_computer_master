@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4d9c45bb-01b9-4fa5-ad9c-e40dbf3107d6">
-  <name>ВКМ_РаботаСРегистрамиИПланамиВидовРасчета</name>
-  <synonym>
-    <key>ru</key>
-    <value>Работа с регистрами и планами видов расчета</value>
-  </synonym>
-</mdclass:Role>

@@ -14,7 +14,6 @@
   <content>Role.ВКМ_ДобавлениеИзмененияДокументовНачисления</content>
   <content>Role.ВКМ_ДобавлениеИзменениеДанныхСотрудников</content>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
-  <content>Role.ВКМ_РаботаСРегистрамиИПланамиВидовРасчета</content>
   <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>Role.ВКМ_ДобавлениеИзменениеГрафиковРаботы</content>
