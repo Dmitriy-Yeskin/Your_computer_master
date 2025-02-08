@@ -236,7 +236,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DataProcessorObject.ВКМ_ОтправкаСообщенийВТелеграмм</types>
+      <types>DataProcessorObject.ВКМ_ОтправкаСообщенийВТелеграм</types>
     </valueType>
     <view>
       <common>true</common>

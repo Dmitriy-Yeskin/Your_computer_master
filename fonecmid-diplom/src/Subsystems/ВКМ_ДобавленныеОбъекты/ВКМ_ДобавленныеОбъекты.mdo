@@ -14,7 +14,7 @@
   <content>CommonForm.ВКМ_ФормаПараметровTGБота</content>
   <content>CommonModule.ВКМ_Телеграм</content>
   <content>Constant.ВКМ_ТаймаутСоединения</content>
-  <content>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм</content>
+  <content>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграм</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.ВКМ_ОтправитьСообщенияВТелеграмм</content>
   <content>Enum.ВКМ_КатегорияФизическогоЛица</content>
@@ -25,7 +25,6 @@
   <content>CommonForm.ВКМ_ФормаНастройкиРасширенияКонстанты</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
-  <content>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</content>
   <content>Role.ВКМ_РаботаСОбработкойМассовоеСозданиеАктов</content>
   <content>Role.ВКМ_ПодсистемаРасчетУправленческойЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзмененияДокументовНачисления</content>

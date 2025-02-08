@@ -21,25 +21,6 @@
     <key>ru</key>
     <value>График работы</value>
   </recordPresentation>
-  <resources uuid="8f9ab900-16dd-4d92-b868-df1efc7ed64e">
-    <name>Часов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Часов</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>5</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:UndefinedValue"/>
-  </resources>
   <resources uuid="847ae12e-78b1-4b04-8751-43bd81ffd84d">
     <name>Дней</name>
     <synonym>

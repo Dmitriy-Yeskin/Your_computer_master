@@ -42,4 +42,5 @@
   <content>CommonCommand.ВКМ_РасчетУправленческойЗарплатыПанельОтчетов</content>
   <content>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</content>
   <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
 </mdclass:Subsystem>

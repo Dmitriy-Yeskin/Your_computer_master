@@ -629,7 +629,6 @@
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</roles>
   <roles>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</roles>
-  <roles>Role.ВКМ_ДобавлениеИзменениеФизическихЛиц</roles>
   <roles>Role.ВКМ_РаботаСОбработкойМассовоеСозданиеАктов</roles>
   <roles>Role.ВКМ_ПодсистемаОбслуживаниеКлиентов</roles>
   <roles>Role.ВКМ_ПодсистемаРасчетУправленческойЗарплаты</roles>
@@ -1351,7 +1350,7 @@
   <dataProcessors>DataProcessor.Сканирование</dataProcessors>
   <dataProcessors>DataProcessor.УдалениеПомеченныхОбъектов</dataProcessors>
   <dataProcessors>DataProcessor.УправлениеИтогамиИАгрегатами</dataProcessors>
-  <dataProcessors>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграмм</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_ОтправкаСообщенийВТелеграм</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_КалендарьСпециалистов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</dataProcessors>

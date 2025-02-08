@@ -4,7 +4,7 @@
     <name>ГруппаФорма</name>
     <id>20</id>
     <items xsi:type="form:FormGroup">
-      <name>ГруппаПараметрыТелеграммБота</name>
+      <name>ГруппаПараметрыТелеграмБота</name>
       <id>16</id>
       <items xsi:type="form:FormField">
         <name>ВКМ_ТокенУправленияТелеграмБотом</name>
@@ -163,11 +163,11 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Параметры телеграмм бота</value>
+        <value>Параметры телеграм бота</value>
       </title>
       <horizontalStretch>true</horizontalStretch>
       <extendedTooltip>
-        <name>ГруппаПараметрыТелеграммБотаРасширеннаяПодсказка</name>
+        <name>ГруппаПараметрыТелеграмБотаРасширеннаяПодсказка</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
