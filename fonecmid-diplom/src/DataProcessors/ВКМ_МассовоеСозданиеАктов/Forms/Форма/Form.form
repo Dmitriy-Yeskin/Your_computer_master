@@ -230,6 +230,8 @@
         <wrap>true</wrap>
         <dropListButton>false</dropListButton>
         <choiceButton>false</choiceButton>
+        <clearButton>false</clearButton>
+        <spinButton>false</spinButton>
         <openButton>true</openButton>
         <createButton>false</createButton>
         <quickChoice>false</quickChoice>

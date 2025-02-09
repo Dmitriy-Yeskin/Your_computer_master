@@ -337,6 +337,7 @@
 					<dcscor:value xsi:type="v8:StandardPeriod">
 						<v8:variant xsi:type="v8:StandardPeriodVariant">Month</v8:variant>
 					</dcscor:value>
+					<dcsset:userSettingID>a33b0656-1c15-461b-9f32-01385a1205f5</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
 			<dcsset:outputParameters>
