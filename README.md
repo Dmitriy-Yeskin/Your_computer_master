@@ -46,6 +46,6 @@
 
 ### Первоначальная настройка системы
 
-Инструкция по первоначальной настройке расположена [здесь](https://github.com/Dmitriy-Yeskin/Your_computer_master/manual.pdf)
+Инструкция по первоначальной настройке и запуску автоматизированного тестирования расположена [здесь](https://github.com/Dmitriy-Yeskin/Your_computer_master/blob/onec-mid-31/manual.pdf).
 
-Файлы со сценариями автоматизированного тестирования расположены [здесь](https://github.com/Dmitriy-Yeskin/Your_computer_master/automated_testing_scenarios)
+Файлы со сценариями автоматизированного тестирования расположены [здесь](https://github.com/Dmitriy-Yeskin/Your_computer_master/tree/onec-mid-31/automated_testing_scenarios).
