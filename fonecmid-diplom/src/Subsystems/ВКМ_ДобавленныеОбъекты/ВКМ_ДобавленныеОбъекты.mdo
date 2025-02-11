@@ -62,4 +62,5 @@
   <content>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</content>
   <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
   <content>AccumulationRegister.ВКМ_ВыставленныеЗаРаботыАкты</content>
+  <content>CommonModule.ВКМ_УправлениеДоступом</content>
 </mdclass:Subsystem>
